@@ -1,0 +1,210 @@
+{
+  "basics": {
+    "name": "Luis and Andres Quesada Rodriguez",
+    "label": "Desarrollador Full-Stack con enfoque en Frontend, especializado en desarrollo web y dedicado a crear experiencias digitales impactantes y funcionales",
+    "image": "/me.webp",
+    "email": "luisdevcol@gmail.com",
+    "phone": "+51 3207895912",
+    "url": "https://luis-q-portfolio.netlify.app",
+    "summary": [
+      {
+        "paragraph": "Soy un chico esforzándose por dejar huella en el mundo del desarrollo web bajo el nombre de INGCapaDev. Tengo experiencia en entornos de startups, donde he acelerado el desarrollo y colaborando en proyectos para clientes. Mis habilidades proactivas para resolver problemas aseguran una funcionalidad óptima, un diseño impresionante y experiencias de usuario excepcionales."
+      },
+      {
+        "paragraph": "Impulsado por mi pasión por la productividad, creo herramientas personalizadas para aumentar mi eficiencia, a menudo convirtiéndome en mi propio cliente. Comparto mi trayectoria y conocimientos en mi blog personal, el link se encuentra en la sección de proyectos, fusionando mi amor por el desarrollo web y mi compromiso con la superación personal."
+      },
+      {
+        "paragraph": "Mi objetivo es simplificar y mejorar la vida de las personas a través de la innovación digital, cultivando y expandiendo la marca INGCapaDev, y creando un impacto duradero en la comunidad de desarrollo web."
+      }
+    ],
+
+    "location": {
+      "city": "Cartagena",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Luis0251",
+        "url": "https://github.com/luis0251"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "luisandresqr",
+        "url": "https://www.linkedin.com/in/luisandresqr/"
+      },
+      {
+        "network": "X",
+        "username": "@luisdevcol",
+        "url": "https://x.com/luisdevcol"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LOBO GRIS S.A.S",
+      "position": "Desarrollador Frontend",
+      "startDate": "2023-05-01",
+      "endDate": "2025-06-01",
+      "summary": "Trabajo como desarrollador front-end en un proyecto importante ofrecido a una organización para gestionar proyectos bajo su responsabilidad. Actualmente, damos soporte a la primera versión de la plataforma mientras desarrollamos simultáneamente la segunda versión, que incluye la construcción de un sistema de diseño utilizando Material UI. Además, también apoyo a otros clientes de la empresa, incluyendo un proyecto reciente donde ayudé a desarrollar un sistema de diseño para una plataforma en construcción, utilizando MaterialUI y ReactJS, basado en los requisitos del cliente.",
+      "highlights": [""],
+      "isRemote": true
+    },
+    {
+      "name": "FREELANCER",
+      "position": "Web Developer",
+      "startDate": "2022-06-01",
+      "endDate": "2023-10-02",
+      "summary": "Trabajé como desarrollador web utilizando CMS WordPress/Drupal. Mi principal labor fue maquetar los diseños presentados por el cliente y configurar los sitios según sus necesidades. En este proceso, desarrollé y desplegué las aplicaciones en los servidores que el cliente tenía disponibles. Tengo experiencia con AWS (API Gateway, S3 y CloudFront) para desplegar aplicaciones y he trabajado con Lambdas para gestionar información externa a WordPress.",
+      "highlights": [""],
+      "isRemote": true
+    },
+    {
+      "name": "BRANDEK",
+      "position": "Web Developer",
+      "startDate": "2021-10-12",
+      "endDate": "2022-04-12",
+      "summary": "Diseñé maquetas web con el CMS WordPress, implementé estrategias de SEO con herramientas de Google para mejorar la visibilidad y gestioné bases de datos para agilizar los procesos de configuración de proyectos. Participé en proyectos exitosos que mejoraron la experiencia del usuario, el rendimiento en línea y la facilidad de uso.",
+      "highlights": [""],
+      "isRemote": false
+    },
+      {
+      "name": "FREELANCER",
+      "position": "Desarrollador Frontend",
+      "startDate": "2021-01-10",
+      "endDate": "2021-09-10",
+      "summary": "Desarrollé componentes con React JS para una aplicación de Power Apps en Microsoft Teams, creando pruebas unitarias para cada componente. Optimicé el rendimiento utilizando técnicas como lazy loading y memoización. Enriquecí la experiencia, contribuyendo a soluciones innovadoras en colaboración y productividad.",
+      "highlights": [""],
+      "isRemote": true
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politécnica de Sinaloa",
+      "area": "Ingeniería en Tecnologías de la Información",
+      "startDate": "2020-08-20",
+      "endDate": "2023-07-10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Desarrollo de Aplicaciones Neo4j con TypeScript",
+      "date": "2024-01-26",
+      "organization": "Neo4j GraphAcademy",
+      "url": "https://graphacademy.neo4j.com/c/39a38074-f78a-4476-b185-224f6280781e/"
+    },
+    {
+      "name": "Introducción al Desarrollo Web II",
+      "date": "2021-12-02",
+      "organization": "Google, Universidad de Alicante",
+      "url": "https://drive.google.com/file/d/16Q-7lxWhN3X8MnIWxV7z1I9OXaTXugwz/view?usp=sharing"
+    },
+    {
+      "name": "Introducción al Desarrollo Web I",
+      "date": "2021-11-25",
+      "organization": "Google, Universidad de Alicante",
+      "url": "https://drive.google.com/file/d/1D2yXuSt64IOwhvCbvreHXzRkIfhW3IGu/view?usp=sharing"
+    }
+  ],
+   "skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS / Tailwind CSS / SCSS "
+    },
+    {
+      "name": "JavaScript / TypeScript"
+    },
+    {
+      "name": "Material UI"
+    },
+    {
+      "name": "Git / GitHub / GitLab"
+    },
+    {
+      "name": "Node.js / Express.js / NestJS"
+    },
+    {
+      "name": "SQL / SQLite / MongoDB"
+    },
+    {
+      "name": "Firebase "
+    },
+    {
+      "name": "Neo4J"
+    },
+    {
+      "name": "React / Next.js "
+    },
+    {
+      "name": "Astro / Angular "
+    },
+    {
+      "name": "Docker"
+    },
+    {
+      "name": "Cloudflare / Vercel / AWS " 
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Resolución de problemas"
+    },
+    {
+      "name": "Comunicación"
+    },
+    {
+      "name": "Liderazgo"
+    },
+    {
+      "name": "Trabajo en equipo"
+    },
+    {
+      "name": "Pensamiento crítico"
+    },
+    {
+      "name": "Mentalidad de crecimiento"
+    },
+    {
+      "name": "Gestión del tiempo"
+    },
+    {
+      "name": "Innovación"
+    }
+  ],
+  "projects": [
+ {
+ "name": "DrawFlow AI - Editor de Diagramas con IA",
+ "isActive": true,
+ "description": "DrawFlow AI es un editor de diagramas interactivo potenciado por inteligencia artificial que permite crear flujos visuales conectando nodos inteligentes",
+ "highlights": [
+ "Nodos de texto con editor enriquecido",
+ "NextJS",
+ "Nodos de imagen generados por IA"
+ ],
+ "url": "https://drawflow.ai/",
+ "github": "https://github.com/Luis0251/draw-ai"
+ },
+ {
+ "name": "Fundo Vida EPS",
+ "isActive": true,
+ "description": "Sitio web interactivo para eps fundovida utilizando tecnologías woordpress Diseño institucional centrado en la claridad de la información sobre los servicios de salud preventiva y promoción.",
+ "highlights": [
+ "PHP",
+ "Wordpress"
+ ],
+ "url": "https://fundovidaips.com/"
+    },
+ {
+ "name": "Espectrum",
+ "isActive": true,
+ "description": "Estructura visual que comunica fiabilidad y experiencia, según el sector industrial, Uso de colores corporativos y gráficos técnicos (diagramas, infografías de procesos).",
+ "highlights": [
+ "PHP",
+ "Wordpress"
+ ],
+ "url": "https://espectrum.com.co/"
+    }
+  ]
+}
