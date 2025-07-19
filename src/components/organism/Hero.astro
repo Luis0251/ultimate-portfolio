@@ -50,6 +50,7 @@ const redirectURL = lang === "en" ? "/es" : "/";
         email && (
           <a
             href={`mailto:${email}`}
+            aria-label={`${t("hero.sendEmail")} ${name}`}
             title={`${t("hero.sendEmail")} ${name} ${t("hero.emailFollowing")} ${email}`}
             target="_blank"
             rel="noopener noreferrer"
@@ -62,6 +63,7 @@ const redirectURL = lang === "en" ? "/es" : "/";
         phone && (
           <a
             href={`tel:${phone}`}
+            aria-label={`${t("hero.phone")} ${name}`}
             title={`${t("hero.phone")} ${name} ${t("hero.phoneFollowing")} ${phone}`}
             target="_blank"
             rel="noopener noreferrer"
@@ -76,6 +78,7 @@ const redirectURL = lang === "en" ? "/es" : "/";
           return (
             <a
               href={url}
+              aria-label={`${t("hero.social")} ${network}`}
               title={`${t("hero.social")} ${network} ${t("hero.socialFollowing")} ${url}`}
               target="_blank"
               rel="noopener noreferrer"
@@ -85,7 +88,11 @@ const redirectURL = lang === "en" ? "/es" : "/";
           );
         })
       }
-      <a href={redirectURL} title={t("changeLanguage")}>
+      <a
+        aria-label={`${t("hero.social")} `}
+        href={redirectURL}
+        title={t("changeLanguage")}
+      >
         <Language />
       </a>
       <ToggleTheme />
