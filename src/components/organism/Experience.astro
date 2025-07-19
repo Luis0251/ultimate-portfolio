@@ -30,7 +30,7 @@ const t = useTranslations(lang)
                 <h3>{name}</h3>
                 {isRemote && <span class="tag">{t('remoteString')}</span>}  
                 </div>
-                <h4>{position}</h4>
+                <h4 aria-label={t('default.position')}>{position}</h4>
               </div>
               <time>
                 {startDateString} - {endDateString}
